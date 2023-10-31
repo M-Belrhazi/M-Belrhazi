@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Maha Belrhazi
 - 🌱 I'm currently a student at 42 Paris
-- 🌱 I’m currently learning JS, HTML, CSS, PHP, Symfony, REACT and NodeJS
+- 🌱 I’m currently learning C, C++, and a complete web stack (HTML, CSS, JS, TS, REACT, NodeJS, NestJS)
 - 📫 How to reach me: mahabelrhazi@hotmail.com
-
