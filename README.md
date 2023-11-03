@@ -12,4 +12,4 @@ Here are some of my projects:
 | minishell        | A little shell made in C, similar to bash. Developing a good understanding of processes and pipes             |                        |
 | webserv          | A small web server made in C++, implementing the GET, POST and DELETE methods from HTTP/1.1               |                        |
 | inception         | A system administration project. Virtualizing several Docker images in my own virtual machine                       |                |
-| ft_transcendance  | Creating a full website using ReactTS and NestTS                 |                     |
+| ft_transcendance  | Creating a full website using ReactTS and NestJS                 |                     |
