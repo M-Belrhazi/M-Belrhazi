@@ -7,7 +7,7 @@ Here are some of my projects:
 
 |  **Project**     | **Description** | **Visual**|
 | ---------------- | --------------- | --------- |
-| [so_long](https://github.com/M-Belrhazi/so_long) | A small 2D game made in C, working with textures, sprites and gameplay elements. Using the minilibx graphic library | ![so_long image](https://github.com/M-Belrhazi/M-Belrhazi/assets/82867087/287741c0-73ce-4120-ba58-dcd70fc57ef4)  |
+| [so_long](https://github.com/M-Belrhazi/so_long) | A small 2D game made in C, working with textures, sprites and gameplay elements. Using the minilibx graphic library | ![so_long image](/mnt/nfs/homes/mbelrhaz/Downloads/so_long_visual.png)  |
 | [miniRT](https://github.com/Devsstudent/mini_rt) | A raytracer in C using the minilibx library               |                        |
 | [minishell](https://github.com/Devsstudent/MiniShell---ShellBasket)       | A little shell made in C, similar to bash. Developing a good understanding of processes and pipes             |                        |
 | [webserv](https://github.com/julesmuntz/42-webserv) | A small web server made in C++, implementing the GET, POST and DELETE methods from HTTP/1.1               |                        |
